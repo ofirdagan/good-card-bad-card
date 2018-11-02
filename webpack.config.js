@@ -67,7 +67,7 @@ const goodCardConfig = Object.assign({}, config, {
   entry: ['./src/client/index.html', './src/client/good-card.js'],
   output: {
     filename: 'bundle.js',
-    path: path.resolve(__dirname, 'good-card')
+    path: path.resolve(__dirname, 'dist/good-card')
   },
 });
 
@@ -75,7 +75,7 @@ const badCardConfig = Object.assign({}, config, {
   entry: ['./src/client/index.html', './src/client/bad-card.js'],
   output: {
     filename: 'bundle.js',
-    path: path.resolve(__dirname, 'bad-card')
+    path: path.resolve(__dirname, 'dist/bad-card')
   },
 });
 
