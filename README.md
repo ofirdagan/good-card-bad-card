@@ -6,8 +6,8 @@ on the app.
 
 ## How to use this repository
 * Go over the [description](#show-case-app-description) of the show case app
-* Open your **dev tools** and check out the **bad** card example [here]()
-* Open your **dev tools** and check out the **good** card example [here]()
+* Open your **dev tools** and check out the **bad** card example [here](https://ofirdagan.github.io/good-card-bad-card/dist/bad-card/)
+* Open your **dev tools** and check out the **good** card example [here](https://ofirdagan.github.io/good-card-bad-card/dist/good-card/)
 * Look at the bad cop [code](src/client/bad-card.js)
 * Look at the good cop [code](src/client/good-card.js)
 * Read about the [differences](#differences-between-the-good-card-and-the-bad-card) and why do they matter
