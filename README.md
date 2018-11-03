@@ -1,4 +1,4 @@
-# Good Card / Bad Card
+# ![cop](docs/assets/cop.png "cop") Good Card / Bad Card
 
 ## About
 This repo demonstrate how small changes in react code can have tremendous effect
@@ -8,9 +8,10 @@ on the app.
 * Go over the [description](#show-case-app-description) of the show case app
 * Open your **dev tools** and check out the **bad** card example [here](https://ofirdagan.github.io/good-card-bad-card/dist/bad-card/)
 * Open your **dev tools** and check out the **good** card example [here](https://ofirdagan.github.io/good-card-bad-card/dist/good-card/)
-* Look at the bad cop [code](src/client/bad-card.js)
-* Look at the good cop [code](src/client/good-card.js)
+* Look at the bad card [code](src/client/bad-card.js)
+* Look at the good card [code](src/client/good-card.js)
 * Read about the [differences](#differences-between-the-good-card-and-the-bad-card) and why do they matter
+* Play with this project on [your machine](#how-to-run-this-code-locally)
 
 ## Show case app description
 The app consists of an array of 100 cards (nothing crazy). The card's components layout shown below.
@@ -48,7 +49,7 @@ because we used an anonymous function.
 It doesn't matter that `Card` is a `PureComponent`. It still get a new prop `handleChange` reference which is different than
 the previous `handleChange` reference.
 
-### How to run this code locally
+## How to run this code locally
 
 * `npm install`
 * in one terminal `npm run watch`
