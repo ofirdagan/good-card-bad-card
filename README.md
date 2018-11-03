@@ -1,5 +1,8 @@
-# ![cop](docs/assets/cop.png =60x "cop") Good Card / Bad Card
+<p align="center">
+<img src="https://github.com/ofirdagan/good-card-bad-card/raw/master/docs/assets/cop.png" data-canonical-src="https://github.com/ofirdagan/good-card-bad-card/raw/master/docs/assets/cop.png" width="100" />
+</p>
 
+# Good Card / Bad Card
 ## About
 This repo demonstrate how small changes in react code can have tremendous effect
 on the app.
