@@ -1,4 +1,4 @@
-# ![cop](docs/assets/cop.png "cop") Good Card / Bad Card
+# ![cop](docs/assets/cop.png =60x "cop") Good Card / Bad Card
 
 ## About
 This repo demonstrate how small changes in react code can have tremendous effect
