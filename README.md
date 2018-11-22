@@ -8,7 +8,7 @@ This repo demonstrate how small changes in react code can have tremendous effect
 on the app.
 
 ## TL;DR
-I strongly recommend to run `why-did-you-update` on your project. It's easy and free 😛. Check it out [here](https://github.com/maicki/why-did-you-update) I promise that you won't be disappointed.
+After playing with this repo I strongly recommend to run `why-did-you-update` on your projects, it's easy and free 😛. Check it out [here](https://github.com/maicki/why-did-you-update), I promise that you won't be disappointed.
 
 ## How to use this repository
 * Go over the [description](#show-case-app-description) of the show case app
